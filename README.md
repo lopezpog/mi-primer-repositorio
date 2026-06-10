@@ -10,3 +10,7 @@ Este es mi primer proyecto en GitHub.
 ## Autor
 - Nombre: Guillermo Lopez
 - Carrera: Ingeniería en Informática
+
+## Upgrade
+- Se actualizo y creo un nuevo branch, GJLP_branch
+- Se actualizo el branch y quedo activado
